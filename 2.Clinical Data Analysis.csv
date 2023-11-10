@@ -1,0 +1,101 @@
+Patient_ID,Gender,Age,Condition,Medication,Treatment_Start_Date,Treatment_End_Date,Vital_Sign_1,Vital_Sign_2,Laboratory_Result_1,Laboratory_Result_2,Outcome,Readmission
+1,Male,45,Hypertension,Amlodipine,2022-01-05,2022-05-10,120,80,5.5,150,Recovered,No
+2,Female,32,Diabetes,Metformin,2022-02-15,2022-08-20,110,70,6.2,180,Stable,No
+3,Male,60,Heart Disease,Aspirin,2021-11-10,2022-04-25,130,85,4.8,130,Improved,No
+4,Female,28,Allergies,Cetirizine,2022-03-20,2022-06-30,--,--,4.0,200,Recovered,No
+5,Male,50,Arthritis,Ibuprofen,2022-05-12,2022-10-15,--,--,5.8,120,Stable,No
+6,Female,65,Cancer,Chemotherapy,2022-01-02,2023-01-15,--,--,--,--,Ongoing,Yes
+7,Male,38,Depression,Fluoxetine,2022-06-10,--,--,--,--,--,No
+8,Female,42,Asthma,Albuterol,2022-04-08,--,--,--,--,--,No
+9,Male,55,Obesity,Diet and Exercise,2022-02-28,--,--,--,--,--,No
+10,Female,48,Hyperthyroidism,Levothyroxine,2022-03-15,--,--,--,--,--,No
+11,Male,70,Alzheimer's Disease,Donepezil,2021-12-01,2022-11-30,--,--,--,--,Ongoing,No
+12,Female,25,Anemia,Iron Supplements,2022-05-05,--,--,--,--,--,No
+13,Male,58,Kidney Disease,Dialysis,2022-02-20,--,--,--,--,--,No
+14,Female,35,Migraine,Sumatriptan,2022-06-05,--,--,--,--,--,No
+15,Male,47,Chronic Respiratory Disease,Inhalers,2022-01-15,2022-07-30,--,--,--,--,Stable,No
+16,Female,30,Epilepsy,Valproic Acid,2022-03-10,--,--,--,--,--,No
+17,Male,52,Psoriasis,Topical Steroids,2022-04-18,--,--,--,--,--,No
+18,Female,40,GERD,Omeprazole,2022-05-25,--,--,--,--,--,No
+19,Male,62,Stroke,Physical Therapy,2021-11-28,--,--,--,--,--,No
+20,Female,45,High Cholesterol,Statins,2022-02-08,--,--,--,--,--,No
+21,Male,55,Liver Disease,Liver Transplant,2022-04-03,--,--,--,--,--,No
+22,Female,33,Anxiety,Lorazepam,2022-01-22,--,--,--,--,--,No
+23,Male,48,Rheumatoid Arthritis,Methotrexate,2022-05-30,--,--,--,--,--,No
+24,Female,68,Osteoporosis,Calcium Supplements,2022-03-08,--,--,--,--,--,No
+25,Male,40,Type 2 Diabetes,Insulin,2022-06-18,--,--,--,--,--,No
+26,Female,30,PCOS,Oral Contraceptives,2022-01-12,--,--,--,--,--,No
+27,Male,58,Prostate Cancer,Radiation Therapy,2022-02-05,--,--,--,--,--,No
+28,Female,42,UTI,Antibiotics,2022-03-25,--,--,--,--,--,No
+29,Male,50,Peripheral Artery Disease,Bypass Surgery,2022-05-15,--,--,--,--,--,No
+30,Female,35,Endometriosis,Hormonal Therapy,2022-01-30,--,--,--,--,--,No
+31,Male,45,Glaucoma,Eye Drops,2022-04-10,--,--,--,--,--,No
+32,Female,28,Celiac Disease,Gluten-Free Diet,2022-06-20,--,--,--,--,--,No
+33,Male,60,Pancreatitis,Low-Fat Diet,2022-02-15,--,--,--,--,--,No
+34,Female,36,Autoimmune Hepatitis,Immunosuppressants,2022-05-05,--,--,--,--,--,No
+35,Male,55,Obstructive Sleep Apnea,CPAP,2021-12-28,--,--,--,--,--,No
+36,Female,38,Chronic Kidney Disease,Dietary Changes,2022-03-18,--,--,--,--,--,No
+37,Male,42,GERD,Omeprazole,2022-05-25,--,--,--,--,--,No
+38,Female,62,Osteoarthritis,Pain Management,2022-04-08,--,--,--,--,--,No
+39,Male,35,Bipolar Disorder,Lithium,2022-06-05,--,--,--,--,--,No
+40,Female,47,Multiple Sclerosis,Immunomodulators,2022-01-15,--,--,--,--,--,No
+41,Male,50,Chronic Pain,Opioids,2022-03-10,--,--,--,--,--,No
+42,Female,28,PTSD,Counseling,2022-04-18,--,--,--,--,--,No
+43,Male,55,Lung Cancer,Chemotherapy,2022-05-25,--,--,--,--,--,No
+44,Female,40,Hyperthyroidism,Levothyroxine,2022-02-28,--,--,--,--,--,No
+45,Male,48,High Blood Pressure,Losartan,2022-03-15,--,--,--,--,--,No
+46,Female,32,Diabetes,Metformin,2022-06-10,--,--,--,--,--,No
+47,Male,60,Heart Disease,Aspirin,2022-04-08,--,--,--,--,--,No
+48,Female,28,Allergies,Cetirizine,2022-05-20,--,--,--,--,--,No
+49,Male,50,Arthritis,Ibuprofen,2022-01-02,--,--,--,--,--,No
+50,Female,65,Cancer,Chemotherapy,2022-02-15,--,--,--,--,--,No
+51,Male,38,Depression,Fluoxetine,2022-05-12,--,--,--,--,--,No
+52,Female,42,Asthma,Albuterol,2022-06-28,--,--,--,--,--,No
+53,Male,55,Obesity,Diet and Exercise,2022-03-20,--,--,--,--,--,No
+54,Female,48,Hyperthyroidism,Levothyroxine,2022-01-05,--,--,--,--,--,No
+55,Male,70,Alzheimer's Disease,Donepezil,2022-02-28,--,--,--,--,--,No
+56,Female,25,Anemia,Iron Supplements,2022-06-10,--,--,--,--,--,No
+57,Male,58,Kidney Disease,Dialysis,2022-05-12,--,--,--,--,--,No
+58,Female,35,Migraine,Sumatriptan,2022-01-15,--,--,--,--,--,No
+59,Male,47,Chronic Respiratory Disease,Inhalers,2022-04-03,--,--,--,--,--,No
+60,Female,30,Epilepsy,Valproic Acid,2022-05-30,--,--,--,--,--,No
+61,Male,52,Psoriasis,Topical Steroids,2022-03-08,--,--,--,--,--,No
+62,Female,40,GERD,Omeprazole,2022-06-18,--,--,--,--,--,No
+63,Male,62,Stroke,Physical Therapy,2022-01-22,--,--,--,--,--,No
+64,Female,45,High Cholesterol,Statins,2022-03-10,--,--,--,--,--,No
+65,Male,55,Liver Disease,Liver Transplant,2022-05-05,--,--,--,--,--,No
+66,Female,33,Anxiety,Lorazepam,2022-04-18,--,--,--,--,--,No
+67,Male,48,Rheumatoid Arthritis,Methotrexate,2022-02-08,--,--,--,--,--,No
+68,Female,68,Osteoporosis,Calcium Supplements,2022-06-05,--,--,--,--,--,No
+69,Male,40,Type 2 Diabetes,Insulin,2022-01-30,--,--,--,--,--,No
+70,Female,30,PCOS,Oral Contraceptives,2022-04-10,--,--,--,--,--,No
+71,Male,58,Prostate Cancer,Radiation Therapy,2022-06-20,--,--,--,--,--,No
+72,Female,42,UTI,Antibiotics,2022-02-15,--,--,--,--,--,No
+73,Male,50,Peripheral Artery Disease,Bypass Surgery,2022-05-30,--,--,--,--,--,No
+74,Female,35,Endometriosis,Hormonal Therapy,2021-12-28,--,--,--,--,--,No
+75,Male,45,Glaucoma,Eye Drops,2022-02-28,--,--,--,--,--,No
+76,Female,28,Celiac Disease,Gluten-Free Diet,2022-05-15,--,--,--,--,--,No
+77,Male,60,Pancreatitis,Low-Fat Diet,2022-01-12,--,--,--,--,--,No
+78,Female,36,Autoimmune Hepatitis,Immunosuppressants,2022-04-03,--,--,--,--,--,No
+79,Male,55,Obstructive Sleep Apnea,CPAP,2022-06-10,--,--,--,--,--,No
+80,Female,38,Chronic Kidney Disease,Dietary Changes,2022-03-25,--,--,--,--,--,No
+81,Male,42,GERD,Omeprazole,2022-04-18,--,--,--,--,--,No
+82,Female,62,Osteoarthritis,Pain Management,2022-06-05,--,--,--,--,--,No
+83,Male,35,Bipolar Disorder,Lithium,2022-02-08,--,--,--,--,--,No
+84,Female,47,Multiple Sclerosis,Immunomodulators,2022-04-03,--,--,--,--,--,No
+85,Male,50,Chronic Pain,Opioids,2022-01-22,--,--,--,--,--,No
+86,Female,28,PTSD,Counseling,2022-05-10,--,--,--,--,--,No
+87,Male,55,Lung Cancer,Chemotherapy,2022-03-18,--,--,--,--,--,No
+88,Female,40,Hyperthyroidism,Levothyroxine,2022-06-28,--,--,--,--,--,No
+89,Male,48,High Blood Pressure,Losartan,2022-02-05,--,--,--,--,--,No
+90,Female,32,Diabetes,Metformin,2022-04-08,--,--,--,--,--,No
+91,Male,60,Heart Disease,Aspirin,2022-05-25,--,--,--,--,--,No
+92,Female,28,Allergies,Cetirizine,2022-01-30,--,--,--,--,--,No
+93,Male,50,Arthritis,Ibuprofen,2022-06-10,--,--,--,--,--,No
+94,Female,65,Cancer,Chemotherapy,2022-02-20,--,--,--,--,--,No
+95,Male,38,Depression,Fluoxetine,2022-05-05,--,--,--,--,--,No
+96,Female,42,Asthma,Albuterol,2022-06-15,--,--,--,--,--,No
+97,Male,55,Obesity,Diet and Exercise,2022-01-05,--,--,--,--,--,No
+98,Female,48,Hyperthyroidism,Levothyroxine,2022-03-10,--,--,--,--,--,No
+99,Male,70,Alzheimer's Disease,Donepezil,2022-05-20,--,--,--,--,--,No
+100,Female,25,Anemia,Iron Supplements,2022-02-15,--,--,--,--,--,No
